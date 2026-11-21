@@ -3,8 +3,8 @@ class Supercomputer < Formula
 
   desc "Retro mainframe operator console: blinkenlights driven by real system load"
   homepage "https://github.com/rdubar/supercomputer"
-  url "https://files.pythonhosted.org/packages/2f/1a/46cd6615d721b1db9b074d8d7b7f59c223dff97575de775f95e0a4d616bf/supercomputer_console-1.3.1.tar.gz"
-  sha256 "6f88ef22ca2880ff2a35594b43c34406bc9a0c08695dbf461874ee86b90e5626"
+  url "https://files.pythonhosted.org/packages/81/7d/a62ad82bf16aa36cdd9bd8113ff6138e4fddcc6e8288d904b80d7cc757fb/supercomputer_console-1.3.2.tar.gz"
+  sha256 "453cb4eeb475ceea8eab05f1955d46325787a4f91f9db553d0afb06cea10de32"
   license "MIT"
 
   depends_on "python@3.13"
